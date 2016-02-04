@@ -1,0 +1,8 @@
+# Files to ignore: PDFs can be downloaded with `make` for every included text
+*.pdf
+*.PDF
+
+# Python scripts for prepping data
+_creating_repositories.py
+_preparing_structure.py
+_.*.py 
