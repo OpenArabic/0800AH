@@ -1,9 +1,12 @@
 # Files to ignore: PDFs can be downloaded with `make` for every included text
-*.(pdf|PDF)
+*.pdf
+*.PDF
 
 # Images should not be stored here either
-*.(gif|GIF)
-*.(jpe?g|JPE?G)
+*.gif
+*.GIF
+*.jpe?g
+*.JPE?G
 
 # Python scripts for prepping data
 __pycache__/
