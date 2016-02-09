@@ -5,8 +5,8 @@
 # Images should not be stored here either
 *.gif
 *.GIF
-*.jpe?g
-*.JPE?G
+*.jpeg
+*.JPEG
 
 # Python scripts for prepping data
 __pycache__/
