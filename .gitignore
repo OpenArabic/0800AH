@@ -8,6 +8,11 @@
 *.jpeg
 *.JPEG
 
+# Audio recordings of should not be stored either
+*.afpk
+*.mp3
+*.ogg
+
 # Python scripts for prepping data
 __pycache__/
 *.py[cod]
