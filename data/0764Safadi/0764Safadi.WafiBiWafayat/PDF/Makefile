@@ -1,2 +1,2 @@
 downloaded_PDFs :
-	wget -i urls.txt
+	wget -nc -i urls.txt

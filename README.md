@@ -1,4 +1,4 @@
-# 0800AH [[ [Re]generated on 2016-03-17 (15:56:25) ]]
+# 0800AH [[ [Re]generated on 2016-03-23 (20:23:16) ]]
 
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)`
 * `0726Yunini.DhaylMiratZaman (TAGS: CHR,BIO,COL)`
@@ -14,6 +14,7 @@
 * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL)`
 * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO,COL)`
 * `0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR)`
+* `0749IbnWardi.Tarikh (TAGS: ...)`
 * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...)`
 * `0764IbnShakirKutubi.FawatWafayat (TAGS: ...)`
 * `0764Safadi.AcyanCasr (TAGS: BIO,COL)`
