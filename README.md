@@ -1,5 +1,6 @@
-# 0800AH [[ [Re]generated on 2016-03-29 (11:38:17) ]]
+# 0800AH [[ [Re]generated on 2016-04-03 (03:56:27) ]]
 
+* `0703Marakishi.DhaylWaTakmila (TAGS: ...)`
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)`
 * `0726Yunini.DhaylMiratZaman (TAGS: CHR,BIO,COL)`
 * `0732AbuFida.MukhtasarFiAkhbar (TAGS: ...)`
@@ -9,11 +10,13 @@
 * `0748Dhahabi.CibarFiKhabar (TAGS: CHR)`
 * `0748Dhahabi.MacrifaQurraKibar (TAGS: BIO,COL)`
 * `0748Dhahabi.MizanIctidal (TAGS: ...)`
+* `0748Dhahabi.MucjamMuhaddithin  (TAGS: ...)`
 * `0748Dhahabi.MucjamShuyukh (TAGS: BIO,COL)`
 * `0748Dhahabi.MukhtasarMinDubaythi (TAGS: ...)`
 * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL)`
 * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO,COL)`
 * `0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR)`
+* `0748IbnDimyati.Mustafad (TAGS: ...)`
 * `0749IbnWardi.Tarikh (TAGS: ...)`
 * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...)`
 * `0764IbnShakirKutubi.FawatWafayat (TAGS: ...)`
@@ -23,6 +26,7 @@
 * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)`
 * `0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR)`
 * `0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL)`
+* `0774IbnRaficSallami.Wafayat (TAGS: ...)`
 * `0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL)`
 * `0776LisanDinIbnKhatib.Ihata (TAGS: ...)`
 * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,COL)`
