@@ -1,4 +1,4 @@
-# 0800AH [[ [Re]generated on 2016-04-03 (03:56:27) ]]
+# 0800AH [[ [Re]generated on 2016-04-03 (19:29:22) ]]
 
 * `0703Marakishi.DhaylWaTakmila (TAGS: ...)`
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)`
@@ -10,6 +10,7 @@
 * `0748Dhahabi.CibarFiKhabar (TAGS: CHR)`
 * `0748Dhahabi.MacrifaQurraKibar (TAGS: BIO,COL)`
 * `0748Dhahabi.MizanIctidal (TAGS: ...)`
+* `0748Dhahabi.MucinFiTabaqatMuhaddithin (TAGS: ...)`
 * `0748Dhahabi.MucjamMuhaddithin  (TAGS: ...)`
 * `0748Dhahabi.MucjamShuyukh (TAGS: BIO,COL)`
 * `0748Dhahabi.MukhtasarMinDubaythi (TAGS: ...)`
@@ -21,6 +22,7 @@
 * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...)`
 * `0764IbnShakirKutubi.FawatWafayat (TAGS: ...)`
 * `0764Safadi.AcyanCasr (TAGS: BIO,COL)`
+* `0764Safadi.NaktHimyan (TAGS: ...)`
 * `0764Safadi.WafiBiWafayat (TAGS: BIO,COL)`
 * `0768Yafici.MiratJanan (TAGS: ...)`
 * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)`
