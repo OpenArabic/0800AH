@@ -1,14 +1,16 @@
-# 0800AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0800AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0703Marakishi.DhaylWaTakmila (TAGS: ...,PPE)`
 * `0709CaliCalawi.Majdi (TAGS: ...,GEN,SHC,PPE)`
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL,PPE)`
 * `0714AhmadGhibrini.CunwanDiraya (TAGS: ...,BIO,PPE)`
+* `0726CallamaHilli.KhulasaAqwal (TAGS: ...,BIO,PPE)`
 * `0726Yunini.DhaylMiratZaman (TAGS: CHR,BIO,COL,PPE)`
 * `0732AbuFida.MukhtasarFiAkhbar (TAGS: ...,PPE)`
 * `0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL,PPE)`
 * `0733IbnJamaca.Mashyakha (TAGS: ...,BIO,PPE)`
 * `0733Nuwayri.NihayaArab (TAGS: ...,PPE)`
+* `0740IbnDawudHilli.Rijal (TAGS: ...,BIO,SHC,PPE)`
 * `0742Mizzi.TahdhibKamal (TAGS: DHB,PPE)`
 * `0748Dhahabi.CibarFiKhabar (TAGS: CHR,PPE)`
 * `0748Dhahabi.DhaylCibar (TAGS: ...,PPE)`
@@ -53,6 +55,7 @@
 * `0776LisanDinIbnKhatib.Ihata (TAGS: ...,PPE)`
 * `0776LisanDinIbnKhatib.KatibaKamina (TAGS: ...,PPE)`
 * `0776LisanDinIbnKhatib.KhatraTayf (TAGS: ...,GEO,PPE)`
+* `0782IbnSallar.TabaqatQurra (TAGS: ...,BIO,PPE)`
 * `0793AbuHasanMalaqi.TarikhQudat (TAGS: ...,PPE)`
 * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,COL,PPE)`
 * `0799IbnFarhun.DibajMudhahhab (TAGS: ...,PPE)`
