@@ -9,7 +9,7 @@
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.inProgress`
 
 
-## Completed (37)
+## Completed (38)
 
 - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed`
 - `0355MuhammadKindi.WulatMisr.JK010325-ara1.completed`
@@ -28,6 +28,7 @@
 - `0458Bayhaqi.DalailNubuwwa.JK006838-ara1.completed`
 - `0460ShaykhTusi.IkhtiyarMacrifaRijal.Shia002932Vols-ara1.completed`
 - `0460ShaykhTusi.Rijal.Shia002935-ara1.completed`
+- `0463IbnCabdBarr.IsticabFiMacrifaAshab.JK000778-ara1.completed`
 - `0463KhatibBaghdadi.TarikhBaghdad.Shamela0000736-ara1.completed`
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama.JK000770-ara1.completed`
 - `0476AbuIshaqShirazi.TabaqatFuqaha.Shamela0001031-ara1.completed`
@@ -50,14 +51,13 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (1)
-
-- `0463IbnCabdBarr.IsticabFiMacrifaAshab.JK000778-ara1.mARkdown`
+## Vetted (0)
 
 
 
 
-# 0800AH [[ [Re]generated on 2016-08-18 (16:17:57) ]]
+
+# 0800AH [[ [Re]generated on 2016-08-18 (16:19:37) ]]
 
 * `0701SharafDinYunini.Mashyakha `
     * TAGS: CENT0800,PPE,_AJZA,_HADITH
