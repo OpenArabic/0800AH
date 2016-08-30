@@ -19,3 +19,6 @@ I didn't recognized any typos
 ## 4. Add any comments on the text
 
 The text is basically a list of names in alphabetical order. Just some minor changes had to be made.
+
+Time costs: 1h
+Editor: Jonas Köpsel
