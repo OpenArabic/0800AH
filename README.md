@@ -1,17 +1,18 @@
 ## Status Report
  
-* 59 titles
-* 30,942,155 words
+* 60 titles
+* 31,039,385 words
 * 156,003 logical units
 * 12,900 bios
 
-### `*.inProgress` (6 titles: 8,408,580 words; 35,706 units; 0 bios)
+### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0748Dhahabi.MacrifaQurraKibar (97,230 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
@@ -78,7 +79,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-09-02 (17:54:33) ]]
+# 0800AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
