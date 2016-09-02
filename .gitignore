@@ -14,6 +14,10 @@
 *.htm
 *.HTM
 
+# RAR archives should not be stored here either
+*.rar
+*.RAR
+
 # Audio recordings of should not be stored either
 *.afpk
 *.mp3
