@@ -1,9 +1,9 @@
 ## Status Report
  
-* 60 titles
-* 31,039,385 words
-* 156,003 logical units
-* 12,900 bios
+* 61 titles
+* 31,079,991 words
+* 156,109 logical units
+* 13,132 bios
 
 ### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
@@ -16,10 +16,9 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (44 titles: 18,912,977 words; 89,804 units; 1 bios)
+### `*.completed` (42 titles: 18,523,103 words; 84,505 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
-- `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 0 bios)`
 - `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,658 words; 1,098 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
@@ -51,7 +50,6 @@
 - `0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)`
 - `0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)`
 - `0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)`
-- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (339,004 words; 5,168 units; 0 bios)`
 - `0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 0 bios)`
 - `0658IbnAbbar.TakmilaLiSila (303,300 words; 3,925 units; 0 bios)`
 - `0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 0 bios)`
@@ -64,11 +62,14 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (9 titles: 3,620,598 words; 30,493 units; 12,899 bios)
+### `*.mARkdown` (12 titles: 4,051,078 words; 35,898 units; 13,131 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
+- `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
+- `0355MuhammadKindi.WulatMisr (50,538 words; 135 units; 132 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
+- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (354,673 words; 1,659 units; 0 bios)`
@@ -79,7 +80,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]
+# 0800AH [[ [Re]generated on 2016-09-03 (20:03:51) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
