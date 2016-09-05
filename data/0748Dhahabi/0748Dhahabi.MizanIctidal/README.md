@@ -13,8 +13,16 @@ pdf in urls (last one)
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+57554 -> corrected
+38723 -> corrected
+39503 -> corrected
+39942 -> corrected
+-> all concern the numbering there were a lot more that I regognized (~100) that I did not correct.
 
 ## 4. Add any comments on the text
 
-Type your response here
+- headlines seem quite complete, but it was hard to check if they are all marked (because of hugh number of pages and no detailed table of contents).
+- The proper names are sufficantly marked. There are less than 20 of ~12000 bibliographical entries missing.
+
+Editor: Jonas
+Time costs: 4 hours
