@@ -13,8 +13,11 @@ second link in urls - pagination is the same
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+no
 
 ## 4. Add any comments on the text
 
-Type your response here
+- all 734 bibliographical entries tagged
+
+Editor: Jonas
+Time costs: 2,5 hours
