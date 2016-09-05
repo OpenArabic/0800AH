@@ -10,13 +10,15 @@ JK version seems to be better structured.
 
 ## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-Type your response here.
+I used the one in urls additional
+pagination is not the same, also I didn't find the end of the text in the pdf
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
-
+no
 ## 4. Add any comments on the text
 
-Type your response here
+Headlines were checked randomly and fitted with the pdf in almost all cases
 
+Editor: Jonas Köpsel	
+Time costs: 1,5 hours
