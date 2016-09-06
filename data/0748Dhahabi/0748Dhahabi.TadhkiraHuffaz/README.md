@@ -9,12 +9,16 @@ PDF for JK version was available.
 
 ## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-I chose the last link in urls - document. 
+I chose the last link in urls - document. It is very close to the text.
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+About five times the numbering of the entry is wrong.
+Twice headlines were wrongly formated in the text, as they appeared in the middle of a sentence.
 
 ## 4. Add any comments on the text
 
-Type your response here
+Text seemed unproblematic.
+
+Editor: Jonas Köpsel
+Time costs: 2h
