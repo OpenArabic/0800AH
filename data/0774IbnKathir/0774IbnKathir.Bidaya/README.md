@@ -17,4 +17,11 @@ Type your response here.
 
 ## 4. Add any comments on the text
 
-Type your response here
+Text is not complete.
+I stoped working on it, because I didn't know what the priorities are concerning how exact the text should be tagged.
+The good thing about the text is that all / or almost all headlines listed in the table of contents are tagged. 
+What makes it difficult is that the headlines comparing the PDF and the text differ in quite some cases. Also in the table of contents there are mostly two layers of headlines, but the logic they are structured with is changing among the volumes (for instance sometimes باب is marking the major headlines sometimes it is فصل or something else). In addition there are a lot of headlines in the text which don't exist in that form in the PDF. This all makes it nesseccary to go through thousands of entries if a correct tagging of layyers is wanted and I didn't know if this worth the effort or if there might be easier ways to handle it.
+The text as it is now is a construction site, sometimes I started working on something which seemed to be too much work to do and started with another thing - in some parts it is well worked out in other not...depending what is needed it might be good to start again from scratch.
+
+Editor: Jonas Köpsel
+Time costs: 2 h
