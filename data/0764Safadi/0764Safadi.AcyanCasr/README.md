@@ -9,7 +9,7 @@ Only Shamela version available.
 
 ## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-Type your response here.
+See urls. Text is close to the edition. Pagination is the same - there are sometimes smaler differences (short parts missing, numbering of names is not existant in the text...)
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
@@ -17,4 +17,10 @@ Type your response here.
 
 ## 4. Add any comments on the text
 
-Type your response here
+Started working on the text accidentialy (it's not listed in the priority list). 
+-> I stopped working on it when I found out about it (~20 % done).
+The tagging is quite time consuming, because many proper names are not marked.
+If this text is needed I can go on working on it.
+
+Editor: Jonas Köpsel
+time costs: 2h
