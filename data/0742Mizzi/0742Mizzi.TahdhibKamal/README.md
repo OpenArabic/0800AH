@@ -15,8 +15,14 @@ Pagination is the same.
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+four typos found - all concerning numbering
 
 ## 4. Add any comments on the text
 
-Type your response here
+very time consuming, because there were 35 volumes and some entries couldn't be marked by regex very well. The quality of the tagging is good I would suppose, sometimes still I didn't checked with the PDF to save time. 
+In the last volume there is a section with womens biographies.
+- first 250 pages are not properly marked yet
+- some of the cross references are still marked with $ instead of $$. They are the ones without numbers so it should be easy to find them.
+
+Editor: Jonas Koepsel
+time costs: 10h
