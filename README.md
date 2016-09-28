@@ -1,14 +1,14 @@
 ## Status Report
  
-* 83 titles
-* 50,932,315 words
-* 260,003 logical units
+* 84 titles
+* 51,008,333 words
+* 260,886 logical units
 * 56,798 bios
 
-### `*.inProgress` (22 titles: 17,720,982 words; 81,911 units; 0 bios)
+### `*.inProgress` (23 titles: 17,797,000 words; 82,794 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (455,982 words; 3,408 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,429 words; 3,481 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -20,11 +20,12 @@
 - `0324Ashcari.MaqalatIslamiyyin (100,202 words; 2,522 units; 0 bios)`
 - `0328IbnCabdRabbihi.CiqdFarid (562,475 words; 3,607 units; 0 bios)`
 - `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
+- `0346Istakhri.MasalikWaMamalik (75,617 words; 28 units; 0 bios)`
 - `0365IbnFaqihHamadhani.Buldan (147,627 words; 74 units; 0 bios)`
 - `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
-- `0742Mizzi.TahdhibKamal (2,683,717 words; 11,664 units; 0 bios)`
+- `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 - `0774IbnKathir.Bidaya (2,212,102 words; 3,465 units; 0 bios)`
@@ -102,7 +103,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-09-28 (11:11:29) ]]
+# 0800AH [[ [Re]generated on 2016-09-28 (12:33:36) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
