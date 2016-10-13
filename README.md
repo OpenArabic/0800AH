@@ -106,7 +106,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-10-13 (13:30:06) ]]
+# 0800AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -158,6 +158,7 @@
 * `0749ShihabDinCumari.MasalikAbsar (TAGS: CENT0800, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH)`
 * `0749Wadiashi.Barnamaj (TAGS: BIB, CENT0800, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `0750AbuHafsQazwini.Mashyakha (TAGS: BIO, CENT0800, PPE, _CULUM, _HADITH)`
+* `0751IbQayyimJawziyya.RisalaIlaAhadIkhwan (TAGS: CENT0800, _IBNQAYYIM, _TARAJIM, _TARIKH)`
 * `0751IbnQayyimJawziyya.IghathaLahfan (TAGS: CENT0800, SBS, _FIQH, _IBNQAYYIM, _MASAIL, _USUL)`
 * `0761IbnKaykaldi.JamicTahsil (TAGS: CENT0800, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0761IbnKaykaldi.Mukhtalitin (TAGS: CENT0800, PPE, _HADITH, _TABAQAT, _TARAJIM)`
