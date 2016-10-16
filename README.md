@@ -106,7 +106,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-10-14 (00:34:45) ]]
+# 0800AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -119,6 +119,7 @@
 * `0726Yunini.DhaylMiratZaman (TAGS: BIO, CENT0800, CHR, COL, PPE, _TARIKH)`
 * `0728IbnTaymiyya.FatawaHamawiyya (TAGS: CENT0800, _IBNTAYMIYYA)`
 * `0728IbnTaymiyya.MajmucFatawa (TAGS: CENT0800, _FIQH, _HANBALI, _IBNTAYMIYYA)`
+* `0728IbnTaymiyya.RasHusayn (TAGS: CENT0800, _IBNTAYMIYYA, _IMAM, _NABI, _SIRA, _TARIKH)`
 * `0728IbnTaymiyya.RasailWaFatawa (TAGS: CENT0800, _FIQH, _HANBALI, _CAQAID, _MILAL, _HADITH, _MUSTALAHAT)`
 * `0730MuhammadTujibi.Barnamaj (TAGS: CENT0800, PPE, _HADITH)`
 * `0732AbuFida.MukhtasarFiAkhbar (TAGS: CENT0800, PPE, _TARIKH)`
