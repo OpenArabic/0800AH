@@ -106,7 +106,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
+# 0800AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -175,9 +175,22 @@
 * `0768Yafici.MiratJanan (TAGS: CENT0800, PPE, _TARIKH)`
 * `0771Subki.MucjamShuyukh (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
 * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO, CENT0800, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0774IbnKathir.AdabDukhulHammam (TAGS: CENT0800, _BUHUTH, _FIQH, _MASAIL, _MISC, _USUL)`
 * `0774IbnKathir.Bidaya (TAGS: BIO, CENT0800, CHR, COL, PPE, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA, _TARIKH)`
+* `0774IbnKathir.FadailQuran (TAGS: CENT0800, _CULUM, _QURAN, _TAFSIR)`
+* `0774IbnKathir.FusulMinSira (TAGS: CENT0800, _ASHAB, _SHAMAIL, _SIRA)`
+* `0774IbnKathir.IkhtisarCulumHadith (TAGS: CENT0800, _CULUM, _HADITH)`
+* `0774IbnKathir.JamicMasanid (TAGS: CENT0800, _HADITH, _TAKHRIJ)`
+* `0774IbnKathir.MusnadCumarIbnKhattab (TAGS: CENT0800, _HADITH)`
+* `0774IbnKathir.NihayatFiFitan (TAGS: CENT0800, _ADAB, _ADHKAR, _CAQAID, _MILAL, _RAQAIQ)`
+* `0774IbnKathir.QisasAnbiya (TAGS: CENT0800, _IMAM, _NABI, _SHAMAIL, _SIRA)`
+* `0774IbnKathir.SharhIkhtisarCulumHadith (TAGS: CENT0800, _CULUM, _HADITH)`
 * `0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM)`
+* `0774IbnKathir.TafsirQuran (TAGS: CENT0800, _AHKAM, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR)`
 * `0774IbnKathir.Takmil (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
+* `0774IbnKathir.TalkhisKitabIstighatha (TAGS: CENT0800, _CAQAID, _MILAL)`
+* `0774IbnKathir.TuhfatTalib (TAGS: CENT0800, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
+* `0774IbnKathir.TuhfatTalib (TAGS: CENT0800, _HADITH, _TAKHRIJ)`
 * `0774IbnRaficSallami.MashyakhaBayani (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0774IbnRaficSallami.Wafayat (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0775IbnAbiWafa.JawahirMudiya (TAGS: BIO, CENT0800, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
