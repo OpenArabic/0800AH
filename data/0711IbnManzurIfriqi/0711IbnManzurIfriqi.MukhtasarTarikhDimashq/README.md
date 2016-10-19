@@ -10,8 +10,7 @@ Edition was close, but sometimes pages didn't match.
 Text lacked numbering of biographies.
 4. Add any comments on the text
 
-Type your response here
-
-5. ...
+186 biographies missing, pdf: 7019, text: 6833
+5. duration: 4,5h
 
 Comments by : [Leonie Nueckell]
