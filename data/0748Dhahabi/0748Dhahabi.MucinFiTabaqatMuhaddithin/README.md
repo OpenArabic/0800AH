@@ -1,5 +1,16 @@
+## 1. Describe why you chose this specific version of the text. Why others, in your opinion, are worse?
 
+in the other version there was no page numbering
+## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
-If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
+pdf didn't match exactly the text. biography-numbering was not the same. some biographies are missing in the text. according to this page numbering also was not the same. but chapters and structure.
+## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
+s.a.
+## 4. Add any comments on the text
+
+Type your response here
+
+## 5. ...
+
+## Comments by : [Leonie Nückell]
