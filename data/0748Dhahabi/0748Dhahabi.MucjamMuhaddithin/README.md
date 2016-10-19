@@ -10,8 +10,7 @@ numbering was the same. not same page-numbers, but same pages
 no
 ## 4. Add any comments on the text
 
-Type your response here
-
-## 5. ...
+all biographies found: 394
+## 5. duration: 45min
 
 ## Comments by : [Leonie Nückell]
