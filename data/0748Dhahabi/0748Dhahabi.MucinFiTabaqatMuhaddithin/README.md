@@ -9,8 +9,7 @@ pdf didn't match exactly the text. biography-numbering was not the same. some bi
 s.a.
 ## 4. Add any comments on the text
 
-Type your response here
-
-## 5. ...
+18 biographies missing. pdf: 2443, text: 2425
+## 5. duration: 45min
 
 ## Comments by : [Leonie Nückell]
