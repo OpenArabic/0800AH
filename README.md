@@ -1,14 +1,14 @@
 ## Status Report
  
-* 87 titles
-* 54,500,407 words
-* 275,122 logical units
+* 90 titles
+* 57,561,691 words
+* 277,944 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 19,094,448 words; 83,848 units; 0 bios)
+### `*.inProgress` (26 titles: 22,088,362 words; 83,793 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,481 words; 3,241 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -27,6 +27,7 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0728IbnTaymiyya.MajmucFatawa (2,993,811 words; 0 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
@@ -34,7 +35,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (42 titles: 26,381,135 words; 109,678 units; 1 bios)
+### `*.completed` (44 titles: 26,448,505 words; 112,555 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -74,6 +75,8 @@
 - `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)`
 - `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)`
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
+- `0748Dhahabi.MucinFiTabaqatMuhaddithin (23,129 words; 2,455 units; 0 bios)`
+- `0748Dhahabi.MucjamMuhaddithin (44,241 words; 422 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
@@ -106,7 +109,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-10-19 (14:30:34) ]]
+# 0800AH [[ [Re]generated on 2016-10-22 (17:14:35) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -135,6 +138,7 @@
 * `0741KhatibTabrizi.Ikmal (TAGS: BIO, CENT0800, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0742Mizzi.TahdhibKamal (TAGS: CENT0800, DHB, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0747MuhyiDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
+* `0748Dhahabi.AhadithMukhtaraMinMawducat (TAGS: CENT0800, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
 * `0748Dhahabi.CibarFiKhabar (TAGS: CENT0800, CHR, PPE, _TARIKH)`
 * `0748Dhahabi.Culuww (TAGS: CENT0800, DHB, PPE, _CAQAID, _MILAL)`
 * `0748Dhahabi.DhaylCibar (TAGS: CENT0800, PPE, _TARIKH)`
@@ -155,6 +159,7 @@
 * `0748Dhahabi.RuwatThiqat (TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT)`
 * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO, CENT0800, COL, DHB, PPE, _FIQH, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _THIQAT, _WAFAYAT)`
 * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO, CENT0800, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT)`
+* `0748Dhahabi.TalkhisMawducatIbnJawzi (TAGS: CENT0800, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
 * `0748Dhahabi.TarikhIslam (TAGS: BIO, CENT0800, CHR, COL, DHB, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0748IbnDimyati.Mustafad (TAGS: CENT0800, PPE, _BULDAN, _HADITH, _SUNNI, _TARAJIM)`
 * `0749IbnWardi.KharidaCajaib (TAGS: CENT0900, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
@@ -162,7 +167,43 @@
 * `0749ShihabDinCumari.MasalikAbsar (TAGS: CENT0800, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH)`
 * `0749Wadiashi.Barnamaj (TAGS: BIB, CENT0800, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `0750AbuHafsQazwini.Mashyakha (TAGS: BIO, CENT0800, PPE, _CULUM, _HADITH)`
+* `0751IbQayyimJawziyya.AclamMuwaqqicin (TAGS: CENT0800, _FIQH, _IBNQAYYIM, _USUL)`
+* `0751IbQayyimJawziyya.AhkamAhlDhimma (TAGS: CENT0800, _FIQH, _IBNQAYYIM, _MASAIL, _USUL)`
+* `0751IbQayyimJawziyya.AmthalFiQuran (TAGS: CENT0800, _CULUM, _IBNQAYYIM, _QURAN, _SUNNI, _TAFSIR)`
+* `0751IbQayyimJawziyya.BadaicFawaid (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.CuddatSabirin (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.DaWaDawa (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.FaidaJalila (TAGS: CENT0800, _IBNQAYYIM)`
+* `0751IbQayyimJawziyya.Fawaid (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _QISAS, _SULUK, _TARAIF, _TAZKIYA)`
+* `0751IbQayyimJawziyya.Furusiyya (TAGS: CENT0800, _FIQH, _IBNQAYYIM, _MASAIL, _USUL)`
+* `0751IbQayyimJawziyya.HadiArwah (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.HidayatHayara (TAGS: CENT0800, _CAQAID, _FIRAQ, _IBNQAYYIM, _MILAL)`
+* `0751IbQayyimJawziyya.IghathatLahfan (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.IjtimacJuyush (TAGS: CENT0800, _CAQAID, _IBNQAYYIM, _MILAL, _RUDUD)`
+* `0751IbQayyimJawziyya.JalaAfham (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.JawabFiSiyaghHamd (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.MadarijSalikin (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.ManarMunif (TAGS: CENT0800, _DACIF, _HADITH, _IBNQAYYIM, _MAWDUC)`
+* `0751IbQayyimJawziyya.MatnQasidaNuniyya (TAGS: CENT0800, _IBNQAYYIM)`
+* `0751IbQayyimJawziyya.MiftahDarSacada (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.MukhtasarSawaciqMursala (TAGS: CENT0800, _IBNQAYYIM)`
+* `0751IbQayyimJawziyya.RawdatMuhibbin (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
 * `0751IbQayyimJawziyya.RisalaIlaAhadIkhwan (TAGS: CENT0800, _IBNQAYYIM, _TARAJIM, _TARIKH)`
+* `0751IbQayyimJawziyya.RisalaTabukiyya (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.RuhFiKalam (TAGS: CENT0800, _CAQAID, _IBNQAYYIM, _MILAL)`
+* `0751IbQayyimJawziyya.Salat (TAGS: CENT0800, _IBNQAYYIM)`
+* `0751IbQayyimJawziyya.SawaciqMursala (TAGS: CENT0800, _CAQAID, _IBNQAYYIM, _MILAL, _RUDUD)`
+* `0751IbQayyimJawziyya.ShifaCalil (TAGS: CENT0800, _CAQAID, _IBNQAYYIM, _MILAL)`
+* `0751IbQayyimJawziyya.SifatMunafiqin (TAGS: CENT0800, _IBNQAYYIM)`
+* `0751IbQayyimJawziyya.TafsirQuran (TAGS: CENT0800, _TAFSIR)`
+* `0751IbQayyimJawziyya.TariqHijratayn (TAGS: CENT0800, _AKHLAQ, _IBNQAYYIM, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.TibbNabawi (TAGS: CENT0800, _ASHAB, _IBNQAYYIM, _SIRA, _TIBB)`
+* `0751IbQayyimJawziyya.TibyanFiAqsamQuran (TAGS: CENT0800, _CULUM, _IBNQAYYIM, _QURAN, _TAFSIR)`
+* `0751IbQayyimJawziyya.TuhfatMawdud (TAGS: CENT0800, _FIQH, _IBNQAYYIM, _MASAIL, _USUL)`
+* `0751IbQayyimJawziyya.TuruqHukmiyya (TAGS: CENT0800, _FIQH, _IBNQAYYIM, _MASAIL, _SIYASA, _USUL)`
+* `0751IbQayyimJawziyya.WabilSayyib (TAGS: CENT0800, _AKHLAQ, _HADITH, _IBNQAYYIM, _MAJMUCAT, _SULUK, _TAZKIYA)`
+* `0751IbQayyimJawziyya.ZadMacad (TAGS: CENT0800, _ASHAB, _IBNQAYYIM, _SIRA)`
+* `0751IbnQayyimJawziya.AsmaMuallafatIbnTaymiya (TAGS: CENT0800, _FAHARIS, _IBNTAYMIYYA, _KUTUB)`
 * `0751IbnQayyimJawziyya.IghathaLahfan (TAGS: CENT0800, SBS, _FIQH, _IBNQAYYIM, _MASAIL, _USUL)`
 * `0756TaqiDinSubki.Fatawa (TAGS: CENT0800, _FATAWA, _FIQH, _SHAFICI)`
 * `0756TaqiDinSubki.Ibhaj (TAGS: CENT0800, _FIQH, _QAWACID, _USUL)`
@@ -208,6 +249,7 @@
 * `0777BadrDinBacli.MukhtasarFatawaMisriyya (TAGS: CENT0800, _FATAWA, _FIQH, _HANBALI)`
 * `0779IbnBattuta.Rihla (TAGS: CENT0800, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH)`
 * `0782IbnSallar.TabaqatQurra (TAGS: BIO, CENT0800, PPE, _QIRAAT, _QURAN, _TAJWID)`
+* `0789IbnMuhammadKhuzaci.TakhrijDalalat (TAGS: CENT0800, _QADA, _SIYASA)`
 * `0793AbuHasanMalaqi.TarikhQudat (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0799IbnFarhun.DibajMudhahhab (TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH)`
