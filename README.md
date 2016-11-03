@@ -114,7 +114,7 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-11-01 (16:59:19) ]]
+# 0800AH [[ [Re]generated on 2016-11-03 (00:32:50) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
@@ -124,7 +124,27 @@
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0714AhmadGhibrini.CunwanDiraya (TAGS: BIO, CENT0800, PPE, _TABAQAT, _TARAJIM)`
 * `0723IbnFuwati.Hawadith (TAGS: CENT0800, PPE, _TARIKH)`
-* `0726CallamaHilli.KhulasaAqwal (TAGS: BIO, CENT0800, PPE, _HADITH, _SHICI, _TARAJIM)`
+* `0726CallamaHilli.IdahIshtibah (TAGS: CENT0800, _HADITH, _SHICI, _TARAJIM)`
+* `0726CallamaHilli.IrshadAdhhan (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.KashfMurad (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.KashfMurad (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.KashfYaqin (TAGS: CENT0800, _IMAM, _NABI, _SIRA)`
+* `0726CallamaHilli.KhulasatAqwal (TAGS: BIO, CENT0800, PPE, _HADITH, _SHICI, _TARAJIM)`
+* `0726CallamaHilli.KitabAlfayn (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.MabadiWusul (TAGS: CENT0800, _FIQH, _SHICI, _USUL)`
+* `0726CallamaHilli.MinhajKarama (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.MukhtalafShica (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.MuntahaMatlab (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.MuntahaMatlab (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.MustajadMinIrshad (TAGS: CENT0800, _HADITH, _SHICI)`
+* `0726CallamaHilli.NaficYawmHashr (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.NahjHaqq (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
+* `0726CallamaHilli.NihayatAhkam (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.QawacidAhkam (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.RisalaSacdiya (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.TabsiratMutacallimin (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.TadhkiratFuqaha (TAGS: CENT0800, PPE, _AFTER800, _FIQH, _SHICI)`
+* `0726CallamaHilli.TahrirAhkam (TAGS: CENT0800, _AFTER800, _FIQH, _SHICI)`
 * `0726Yunini.DhaylMiratZaman (TAGS: BIO, CENT0800, CHR, COL, PPE, _TARIKH)`
 * `0728IbnTaymiyya.AhadithQussas (TAGS: CENT0800, _DACIF, _HADITH, _IBNTAYMIYYA, _MAWDUC)`
 * `0728IbnTaymiyya.AmrBiMacruf (TAGS: CENT0800, _FIQH, _IBNTAYMIYYA, _MASAIL, _USUL)`
@@ -186,8 +206,15 @@
 * `0734IbnQaddahHarawi.MulhaqFatawa (TAGS: CENT0800, _BUHUTH, _FIQH, _MASAIL)`
 * `0739SafiDinHanbali.Marasid (TAGS: CENT0800, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0740IbnDawudHilli.Rijal (TAGS: BIO, CENT0800, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `0741CabdAllahWasiti.KanzFiQiraatCashr (TAGS: CENT0800, _QIRAAT, _QURAN, _TAJWID)`
 * `0741KhatibTabrizi.Ikmal (TAGS: BIO, CENT0800, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0742Mizzi.TahdhibKamal (TAGS: CENT0800, DHB, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
+* `0744MuhammadIbnQudamaMaqdisi.CuqudDurriyya (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0744MuhammadIbnQudamaMaqdisi.MuharrirFiHadith (TAGS: CENT0800, _HADITH, _TAKHRIJ, _TARAJIM)`
+* `0744MuhammadIbnQudamaMaqdisi.SarimMunki (TAGS: CENT0800, _HADITH, _TAKHRIJ, _TARAJIM, _TARIKH)`
+* `0744MuhammadIbnQudamaMaqdisi.SharhMuharrir (TAGS: CENT0800, _HADITH, _SHARH)`
+* `0744MuhammadIbnQudamaMaqdisi.TacliqaCalaCilal (TAGS: CENT0800, _AHKAM, _CILAL, _HADITH, _MUSHKIL, _SUALAT, _TARAJIM)`
+* `0744MuhammadIbnQudamaMaqdisi.TanqihTahqiq (TAGS: CENT0800, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0747MuhyiDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0748Dhahabi.AhadithMukhtaraMinMawducat (TAGS: CENT0800, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
 * `0748Dhahabi.CibarFiKhabar (TAGS: CENT0800, CHR, PPE, _TARIKH)`
@@ -195,6 +222,7 @@
 * `0748Dhahabi.DhaylCibar (TAGS: CENT0800, PPE, _TARIKH)`
 * `0748Dhahabi.DhaylDiwanDucafa (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
 * `0748Dhahabi.DhikrAsmaManTakallama (TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT)`
+* `0748Dhahabi.DhikrFiJarh (TAGS: CENT0800, _HADITH)`
 * `0748Dhahabi.DiwanDucafa (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
 * `0748Dhahabi.Kashif (TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0748Dhahabi.MacrifaQurraKibar (TAGS: BIO, CENT0800, COL, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -272,7 +300,11 @@
 * `0765AbuMahasinHusayni.IkmalLiRijal (TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0767Balawi.TajMafriq (TAGS: CENT0800, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARAJIM, _TARIKH)`
 * `0768Yafici.MiratJanan (TAGS: CENT0800, PPE, _TARIKH)`
+* `0771Subki.AshbahWaNazair (TAGS: CENT0800, _FIQH, _QAWACID, _USUL)`
 * `0771Subki.MucjamShuyukh (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
+* `0771Subki.QacidaFiJarh (TAGS: CENT0800, _CULUM, _HADITH)`
+* `0771Subki.QacidaFiMuarrikhin (TAGS: CENT0800, _CULUM, _HADITH)`
+* `0771Subki.RafcHajib (TAGS: CENT0800, _FIQH, _QAWACID, _USUL)`
 * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO, CENT0800, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0774IbnKathir.AdabDukhulHammam (TAGS: CENT0800, _BUHUTH, _FIQH, _MASAIL, _MISC, _USUL)`
 * `0774IbnKathir.Bidaya (TAGS: BIO, CENT0800, CHR, COL, PPE, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA, _TARIKH)`
@@ -301,6 +333,8 @@
 * `0776LisanDinIbnKhatib.NafadaJirab (TAGS: CENT0800, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT)`
 * `0776LisanDinIbnKhatib.RayhanatKitab (TAGS: CENT0800, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `0777BadrDinBacli.MukhtasarFatawaMisriyya (TAGS: CENT0800, _FATAWA, _FIQH, _HANBALI)`
+* `0779BadrDinHalabi.MuntaqaMinSira (TAGS: CENT0800, _ASHAB, _SHAMAIL, _SIRA)`
+* `0779BadrDinHalabi.NasimSaba (TAGS: CENT0800, _ADAB, _BALAGHA, _MISC)`
 * `0779IbnBattuta.Rihla (TAGS: CENT0800, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH)`
 * `0782IbnSallar.TabaqatQurra (TAGS: BIO, CENT0800, PPE, _QIRAAT, _QURAN, _TAJWID)`
 * `0789IbnMuhammadKhuzaci.TakhrijDalalat (TAGS: CENT0800, _QADA, _SIYASA)`
