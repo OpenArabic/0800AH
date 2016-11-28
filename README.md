@@ -138,15 +138,23 @@
 
 
 
-# 0800AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 0800AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`
 * `0703MuhammadMarrakushi.DhaylWaTakmila (TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM)`
+* `0705SharafDinDimyatti.ArbacunaAbdal (TAGS: CENT0800, _HADITH, _MAKHTUTAT)`
+* `0705SharafDinDimyatti.IthafFudalaBashar (TAGS: CENT1200, _CULUM, _QIRAAT, _QURAN, _TAFSIR)`
+* `0705SharafDinDimyatti.JuzMusafahatMuslim (TAGS: CENT0800, _AJZA, _HADITH)`
 * `0705SharafDinDimyatti.MucjamShuyukh (TAGS: CENT0800, PPE, _HADITH, _MAKHTUTAT)`
+* `0705SharafDinDimyatti.Tasalli (TAGS: CENT0800, _AJZA, _HADITH)`
 * `0709CaliCalawi.Majdi (TAGS: CENT0800, GEN, PPE, SHC, _ANSAB, _MACAJIM)`
 * `0709IbnTiqtaqa.FakhriFiAdab (TAGS: CENT0800, PPE, _TARIKH, _QADA, _SIYASA)`
 * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0714AhmadGhibrini.CunwanDiraya (TAGS: BIO, CENT0800, PPE, _TABAQAT, _TARAJIM)`
+* `0718AbuIshaqWatwat.GhurarKhasais (TAGS: CENT0800, _ADAB, _BALAGHA, _MISC)`
+* `0718AbuIshaqWatwat.MabahijFikar (TAGS: CENT0800, _ADAB, _BALAGHA, _MISC)`
+* `0721IbnRushaydSabti.MalCayba (TAGS: CENT0800, _AJZA, _HADITH)`
+* `0721IbnRushaydSabti.SunanAbyan (TAGS: CENT0800, _CULUM, _HADITH, _MISC, _MUSTALAHAT)`
 * `0723IbnFuwati.Hawadith (TAGS: CENT0800, PPE, _TARIKH)`
 * `0724IbnCattar.TuhfaTalibin (TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM)`
 * `0724IbnCattar.TuhfaTalibin (TAGS: CENT0800, PPE, _TARAJIM, _TARIKH)`
