@@ -20,7 +20,11 @@ Type your response here.
 Started working on the text accidentialy (it's not listed in the priority list). 
 -> I stopped working on it when I found out about it (~20 % done).
 The tagging is quite time consuming, because many proper names are not marked.
-If this text is needed I can go on working on it.
+
+Until the bibliographilcal entry 337 only 331 are tagged (6 are missing)
+
+Restarted tagging again on the 03.10.2017
+- 1. volume fertig
 
 Editor: Jonas Köpsel
 time costs: 2h
