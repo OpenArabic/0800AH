@@ -23,7 +23,7 @@ JoK: Found for instance:الأمام instead of الإمام
 PageV03P087 -> wrong page break
 entry 185 او instead of ابو
 
-and a couple of similar mistakes
++ many similar mistakes some as well in the headlines -> I did not correct them
 
 ## 4. Add any comments on the text
 
@@ -33,10 +33,10 @@ JoK:
 
 1V: 238/248 of names were marked -> all found
 2V: (249 - 854) 357/606 -> all found
-done until entry 854
 3V:(855-1455) (65/600) -> 9 missing
-4V: until 1644 done
-
+4V: (1456-1956)(493/500) -> 7 missing
+4V: 2353 finished
+new part: until entry 60 (page 224) 
 
 With regular expression I wrote everything can be found but -> entries that are
 - wrongly not marked as new paragraph
@@ -44,7 +44,17 @@ With regular expression I wrote everything can be found but -> entries that are
 - have speeling mistakes
 - doesnt start at the beginning of the line
 
+-some entries are found that are no headlines, mostly they begin with direct speech like
+ قال او  سمع
+
 -> all is due to unconsistancies in the text the amount of missing entries is ca 30% so I still have to check each entry on its own.
+
+
+Some headlines were marked in the markdown file but not in the PDF. Still they fit the logic of the headlines of the text
+
+example: 
+### | ابن كرام 
+### $ المجسم محمد بن  كرام
 
 
 (^# \|)|(#3)|\w \$ 
