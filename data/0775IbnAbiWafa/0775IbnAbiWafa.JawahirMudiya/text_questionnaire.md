@@ -6,15 +6,15 @@ Copy-paste these questions into the README.md file and answer them.
 
 ## 1. Describe why you chose this specific version of the text. Why others, in your opinion, are worse?
 
-Type your response here.
+
 
 ## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
-Type your response here.
-
+Didn't find a matching PDF. Pagewrapping did not fit in any of the given PDF nor in those in found
+in the web. 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+There are additional words, which does not appear in the PDF in the lists of Gods names.
 
 ## 4. Add any comments on the text
 
