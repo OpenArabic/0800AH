@@ -29,15 +29,29 @@ entry 185 او instead of ابو
 
 The formatting is quite messy; it will take a while to mARkdown this book ...
 p
+
+
 JoK:
+
+THe work is secmented into two parts: The first one until the middle of volume 5 is not in alphabetical order. The second part starting afterwards is in alphabetical order. The first part took a lot of time, as is wasn't effectivly possible to use regular expressions and the formating was very messy, in the second part most entries are tagged correctly, but not a 100%.
+Follwing I made an overview of the volumes I worked on
 
 1V: 238/248 of names were marked -> all found
 2V: (249 - 854) 357/606 -> all found
 3V:(855-1455) (65/600) -> 9 missing
 4V: (1456-1956)(493/500) -> 7 missing
-4V: 2353 finished
-new part: until entry 60 (page 224) 
+5V: (1957-2353)(___ /396) 
+new part (entries start from number 1 again:
+(1-87) -> all found
+6V: (87/599) (513/512) -> one entry too much - did some probes and the pdf and the tagged entries seemed to fit well overall
+V7:(601-1062)(463/461)-> one entry to much - evrything else like same as V6
+V8:(1063 - 1568) (506/505)-> one entry too much.
+second half of the text checked in detail, in the first half there seemed to be very few misstakes only, so I just probed
+V9:(1569-2113) (554/554)
+didnt check the entries again, but as the number was complete it seems to be quite well
+headlines checked until page 85
 
+About the first part:
 With regular expression I wrote everything can be found but -> entries that are
 - wrongly not marked as new paragraph
 - have a line break within the headline
@@ -61,3 +75,4 @@ example:
 
 JoK: page 62-96 V1 are missing
 page 62 and 61 are missing therefore 6 biographies are not included
+entrz 1461 is missing
