@@ -48,8 +48,7 @@ V7:(601-1062)(463/461)-> one entry to much - evrything else like same as V6
 V8:(1063 - 1568) (506/505)-> one entry too much.
 second half of the text checked in detail, in the first half there seemed to be very few misstakes only, so I just probed
 V9:(1569-2113) (554/554)
-didnt check the entries again, but as the number was complete it seems to be quite well
-headlines checked until page 85
+as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some enties and headlines. Until page 238 it should be mostly alright now.
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
@@ -76,3 +75,5 @@ example:
 JoK: page 62-96 V1 are missing
 page 62 and 61 are missing therefore 6 biographies are not included
 entrz 1461 is missing
+
+JoK: stopped working on the text on the 07.04. after about 20 hours of work. I think it will take several more days or weeks to finish this text. It might be possible to use regex, but for me it was far too difficult, maybe everthing has to be done manualy.
