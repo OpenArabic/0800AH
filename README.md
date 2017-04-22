@@ -1,14 +1,15 @@
 ## Status Report
  
-* 152 titles
-* 81,812,871 words
-* 410,782 logical units
+* 167 titles
+* 87,542,791 words
+* 414,612 logical units
 * 118,976 bios
 
-### `*.inProgress` (32 titles: 26,781,532 words; 91,731 units; 0 bios)
+### `*.inProgress` (37 titles: 28,369,080 words; 120,355 units; 0 bios)
 
 - `0110HasanBasri.FadailMakka (3,334 words; 0 units; 0 bios)`
 - `0195MuarrijSadusi.HadhfMinNasabQuraysh (9,181 words; 16 units; 0 bios)`
+- `0211CabdRazzakSancani.Musannaf (799,491 words; 25,444 units; 0 bios)`
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0255Jahiz.Hayawan (456,559 words; 3,113 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
@@ -26,22 +27,26 @@
 - `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
 - `0346Istakhri.MasalikWaMamalik (75,617 words; 28 units; 0 bios)`
 - `0365IbnFaqihHamadhani.Buldan (147,627 words; 74 units; 0 bios)`
-- `0395AbuHilalCaskari.Sinacatayn (79,541 words; 205 units; 0 bios)`
+- `0395AbuHilalCaskari.Sinacatayn (79,539 words; 207 units; 0 bios)`
 - `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
+- `0597IbnJawzi.TalbisIblis (130,487 words; 147 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0726Yunini.DhaylMiratZaman (323,810 words; 212 units; 0 bios)`
 - `0728IbnTaymiyya.MajmucFatawa (2,993,811 words; 0 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0762MughaltayIbnQalij.IkmalTahdhib (861,631 words; 5,588 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,064 words; 2,498 units; 0 bios)`
-- `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
+- `0764Safadi.WafiBiWafayat (1,968,739 words; 12,566 units; 0 bios)`
 - `0774IbnKathir.Bidaya (2,212,102 words; 3,465 units; 0 bios)`
-- `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
-- `0927Nucaymi.DarisFiMadaris (223,714 words; 457 units; 0 bios)`
+- `0795IbnRajabHanbali.DhaylTabaqatHanabila  (213,678 words; 574 units; 0 bios)`
+- `0851IbnQadiShuhba.TabaqatShaficiya (119,436 words; 813 units; 0 bios)`
+- `0902Sakhawi.DuLamic (1,336,113 words; 14,468 units; 0 bios)`
+- `0927Nucaymi.DarisFiMadaris (223,743 words; 518 units; 0 bios)`
 - `1371MuhsinCamili.AcyanShica (4,675,217 words; 94 units; 0 bios)`
 
 
-### `*.completed` (96 titles: 38,681,578 words; 202,824 units; 1 bios)
+### `*.completed` (105 titles: 42,587,371 words; 212,367 units; 1 bios)
 
 - `0216IbnQuraybAsmaci.Asmaciyat (16,957 words; 99 units; 0 bios)`
 - `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
@@ -54,9 +59,10 @@
 - `0276IbnQutaybaDinawari.RisalaKhatt (2,337 words; 18 units; 0 bios)`
 - `0276IbnQutaybaDinawari.ShicrWaShucara (137,743 words; 310 units; 0 bios)`
 - `0276IbnQutaybaDinawari.TawilMushkilQuran (61,442 words; 241 units; 0 bios)`
-- `0280IbnTayfur.Baghdad (48,570 words; 29 units; 0 bios)`
+- `0280IbnTayfur.Baghdad (48,570 words; 321 units; 0 bios)`
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0300IbnKhurdadhbih.MasalikWaMamalik (41,034 words; 152 units; 0 bios)`
+- `0310Tabari.Tarikh (1,613,097 words; 2,200 units; 0 bios)`
 - `0310Tabari.Tarikh (1,613,097 words; 2,164 units; 0 bios)`
 - `0346Mascudi.AkhbarZaman (57,846 words; 43 units; 0 bios)`
 - `0346Mascudi.TanbihWaIshraf (85,677 words; 83 units; 0 bios)`
@@ -100,6 +106,7 @@
 - `0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)`
 - `0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)`
 - `0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)`
+- `0626YaqutHamawi.MucjamUdaba (794,272 words; 1,611 units; 0 bios)`
 - `0630IbnAthirCizzDin.Kamil (1,356,072 words; 4,404 units; 0 bios)`
 - `0637IbnMustafwi.TarikhIrbil (385,144 words; 4,781 units; 0 bios)`
 - `0640AbuHafsDunaysiri.TarikhDunaysir (22,117 words; 74 units; 0 bios)`
@@ -113,6 +120,7 @@
 - `0680IbnSabuni.TakmilaIkmalIkmal (42,252 words; 236 units; 0 bios)`
 - `0685IbnCibri.TarikhMukhtasarDuwal (97,240 words; 234 units; 0 bios)`
 - `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (2,408,342 words; 7,118 units; 0 bios)`
+- `0732IbnYacqubJanadi.SulukFiTabaqat (272,623 words; 1 units; 0 bios)`
 - `0748Dhahabi.CibarFiKhabar (270,948 words; 868 units; 0 bios)`
 - `0748Dhahabi.Culuww (51,237 words; 777 units; 0 bios)`
 - `0748Dhahabi.DhaylCibar (37,477 words; 161 units; 0 bios)`
@@ -132,16 +140,22 @@
 - `0748Dhahabi.RuwatThiqat (3,391 words; 94 units; 0 bios)`
 - `0748Dhahabi.SiyarAclamNubala (2,264,566 words; 6,476 units; 0 bios)`
 - `0748Dhahabi.TadhkiraHuffaz (325,173 words; 1,200 units; 0 bios)`
+- `0764IbnShakirKutubi.FawatWafayat (286,018 words; 636 units; 0 bios)`
 - `0768Yafici.MiratJanan (424,091 words; 798 units; 0 bios)`
 - `0852IbnHajarCasqalani.DurarKamina (414,347 words; 5,396 units; 0 bios)`
 - `0852IbnHajarCasqalani.IsabaFiTamyiz (1,092,269 words; 13,577 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
 - `0911Suyuti.BughyaWucat (197,962 words; 2,360 units; 0 bios)`
+- `0911Suyuti.TabaqatHuffaz (73,608 words; 1,216 units; 0 bios)`
+- `0927Nucaymi.DarisFiMadaris (223,743 words; 518 units; 0 bios)`
+- `1061NajmDinGhazzi.KawakibSaira (243,272 words; 1,627 units; 0 bios)`
 - `1089IbnCimad.Shadharat (1,097,722 words; 1,143 units; 0 bios)`
+- `1100IbnMuhammadAdnahwi.TabaqatMufassirin (40,771 words; 648 units; 0 bios)`
+- `1206Muradi.SilkDurar (358,389 words; 794 units; 0 bios)`
 
 
-### `*.mARkdown` (24 titles: 16,349,761 words; 116,227 units; 118,975 bios)
+### `*.mARkdown` (25 titles: 16,586,340 words; 81,890 units; 118,975 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0300IbnKhurdadhbih.MasalikWaMamalik (35,723 words; 142 units; 0 bios)`
@@ -155,6 +169,7 @@
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
 - `0578IbnBashkuwal.Sila (140,896 words; 1,725 units; 1,543 bios)`
+- `0597IbnJawzi.TalbisIblis (129,958 words; 85 units; 0 bios)`
 - `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)`
 - `0658IbnAbbar.TakmilaLiSila (306,871 words; 3,925 units; 3,580 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
@@ -165,13 +180,13 @@
 - `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,183 words; 2,333 units; 2,305 bios)`
-- `0748Dhahabi.TarikhIslam (3,506,002 words; 34,422 units; 31,089 bios)`
-- `0748Dhahabi.TarikhIslam (3,611,271 words; 0 units; 31,089 bios)`
+- `0748Dhahabi.TarikhIslam (3,611,947 words; 0 units; 31,089 bios)`
+- `0748Dhahabi.TarikhIslam (3,611,947 words; 0 units; 31,089 bios)`
 
 
 
 
-# 0800AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]
+# 0800AH [[ [Re]generated on 2017-04-15 (08:48:43) ]]
 
 * `0701IbnNasrAllahIbnSayqalJazari.Maqamat (TAGS: CENT0800, _ADAB, _BALAGHA, _MISC)`
 * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800, PPE, _AJZA, _HADITH)`

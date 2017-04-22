@@ -8,16 +8,18 @@ Copy-paste these questions into the README.md file and answer them.
 
 Type your response here.
 
-## 2. Same pagination, but the editorial introduction is missing as well in the shamela as in the JK. The JK has Quranic verses already tagged.
+## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
 
 Type your response here.
 
-## Wraps are a little of, not sure if we have to change that.
+## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
+
 Type your response here.
 
 ## 4. Add any comments on the text
 
-The text isn't structured into chapters or other blocks.
+Type your response here
+
 ## 5. ...
 
 ## Comments by : [Firstname Lastname]
